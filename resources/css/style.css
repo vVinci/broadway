@@ -42,3 +42,9 @@ p{
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
+
+ol{
+  list-style: none;
+  display: table;
+  margin: 0 auto;
+}
